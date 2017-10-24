@@ -36,11 +36,16 @@
 
 职位： WEB前端工程师
 ## 项目经验
-PC端:   maikang-auto.com、gdyuetong.cn
+#### PC端  
+1. http://www.maikang-auto.com
+2. http://www.gdyuetong.cn
 
-响应式:  http://www.dgsuokang.com/  http://www.muyee.com/mobile/
+#### 响应式 
+1. http://www.dgsuokang.com/  
+2. http://www.muyee.com/mobile/
 
-移动端:  pengrongjie.com
+#### 移动端  
+1. http://www.pengrongjie.com
 
 > 总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 ## 个人开源
