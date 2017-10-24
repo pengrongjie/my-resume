@@ -16,7 +16,7 @@
 
 毕业院校： 广西科技大学 - 信息管理与信息系统
 
-## 技能总概
+## 技术栈
 前端： html、css,、javaScript、jQuery、bootStrap、ajax、vue
 
 后端： node、express、mongodb 
@@ -42,7 +42,7 @@ PC端:   maikang-auto.com、gdyuetong.cn
 
 移动端:  pengrongjie.com
 
-总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
+> 总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 ## 个人开源
 简介:  Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
 
