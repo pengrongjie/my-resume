@@ -53,8 +53,8 @@
 
 线上:  http://www.pengrongjie.com
 > 总结: 跨出全栈开发的第一步
-## 自我评价
-#### Github    
+## 自我介绍
+#### Github    
 https://github.com/pengrongjie
 
 #### 个人博客
