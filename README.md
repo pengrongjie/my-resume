@@ -49,9 +49,11 @@
 
 > 总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 ## 个人开源
-简介:  Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
+#### 简介
+Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
 
-线上:  http://www.pengrongjie.com
+##### 线上访问
+http://www.pengrongjie.com
 > 总结: 跨出全栈开发的第一步
 ## 自我介绍
 #### Github    
