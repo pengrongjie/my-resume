@@ -47,6 +47,7 @@ PC端:   maikang-auto.com、gdyuetong.cn
 简介:  Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
 
 线上:  pengrongjie.com
+> 总结: 跨出全栈开发的第一步
 ## 自我评价
 Github     https://github.com/pengrongjie
 
@@ -56,4 +57,4 @@ Github     https://github.com/pengrongjie
 
 座右铭:    做人没有梦想，跟咸鱼有什么分别
 
-**感谢您在百忙之中，抽空看了我的简历，谢谢！**
+## 感谢您在百忙之中，抽空看了我的简历，谢谢！
