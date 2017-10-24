@@ -54,12 +54,17 @@
 线上:  http://www.pengrongjie.com
 > 总结: 跨出全栈开发的第一步
 ## 自我评价
-Github     https://github.com/pengrongjie
+#### Github    
+https://github.com/pengrongjie
 
-个人博客:  https://pengrongjie.github.io/
+#### 个人博客
+https://pengrongjie.github.io/
 
-未来展望：全栈工程师(前端 + node + mongodb + react Native + 阿里云(cenOS))
+#### 未来展望
+全栈工程师(前端 + node + mongodb + react Native + 阿里云(cenOS))
 
-座右铭:    做人没有梦想，跟咸鱼有什么分别
+#### 座右铭
+做人没有梦想，跟咸鱼有什么分别
+
 
 ## 感谢您在百忙之中，抽空看了我的简历，谢谢！
