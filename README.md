@@ -51,7 +51,7 @@
 ## 个人开源
 简介:  Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
 
-线上:  pengrongjie.com
+线上:  http://www.pengrongjie.com
 > 总结: 跨出全栈开发的第一步
 ## 自我评价
 Github     https://github.com/pengrongjie
