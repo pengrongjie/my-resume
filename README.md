@@ -37,15 +37,16 @@
 职位： WEB前端工程师
 ## 项目经验
 #### PC端  
-1. [亲润商城](http://www.qinrun.com/ )http://www.maikang-auto.com
-2. http://www.gdyuetong.cn
+1. [亲润商城](http://www.qinrun.com/)
+2. [通立电梯](http://www.zzftldt.com/)
 
 #### 响应式 
-1. http://www.dgsuokang.com/  
-2. http://www.muyee.com/mobile/
+1. [索康](http://www.dgsuokang.com/)  
+2. [益诺欧](http://www.yeanovo.com/)
+3. [云舒)](http://www.cloudsoar.com/)
 
 #### 移动端  
-1. http://www.pengrongjie.com
+1. [诺心蛋糕](http://www.lecake.com/)
 
 > 总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 ## 个人开源
