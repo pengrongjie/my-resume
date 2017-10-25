@@ -24,20 +24,20 @@
 其它:  webpack、git、阿里云(cenOS)
 ## 工作经验
 
-★ 2015/07 - 2016/06
+★ 2015/07 - 2016/10
 
-公司:  广东华商网络科技有限公司
+公司:   广州纵天科技有限公司
 
 职位： WEB前端工程师
 
-★ 2016/07 - 至今 
+★ 2016/11 - 至今 
 
 公司:  东莞索康自动化有限公司
 
 职位： WEB前端工程师
 ## 项目经验
 #### PC端  
-1. http://www.maikang-auto.com
+1. [亲润商城](http://www.qinrun.com/ )http://www.maikang-auto.com
 2. http://www.gdyuetong.cn
 
 #### 响应式 
