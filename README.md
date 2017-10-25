@@ -43,12 +43,11 @@
 #### 响应式 
 1. [索康](http://www.dgsuokang.com/)  
 2. [益诺欧](http://www.yeanovo.com/)
-3. [云舒)](http://www.cloudsoar.com/)
+3. [云舒](http://www.cloudsoar.com/)
 
 #### 移动端  
 1. [诺心蛋糕](http://www.lecake.com/)
 
-> 总结:    浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 ## 个人开源
 #### 简介
 Vue + Express + Mongodb + 阿里云部署(cenOS), 前后端分离博客: 
@@ -68,6 +67,8 @@ https://pengrongjie.github.io/
 
 #### 座右铭
 做人没有梦想，跟咸鱼有什么分别
+#### 其它
+> 浏览器兼容性ie > 8、webpack自动构建化、通用框架jQuery+bootStrap、自己测试用express、特效模仿一二线互联网公司产品、关注github,掘金,博客园等编程技术网站
 
 
 ## 感谢您在百忙之中，抽空看了我的简历，谢谢！
